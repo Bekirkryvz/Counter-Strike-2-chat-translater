@@ -1,5 +1,3 @@
-The provided text has a few grammatical errors and unclear information. Here's a revised version:
-
 This is a translator for Counter-Strike chat. In-game, any chat sent will be translated into your chosen language and instantly copied. Just paste it somewhere and read as if the Russian player thinks you don't understand them.
 
 To talk back to anyone, open your console, type T![any language code] (e.g., T!RU for Russian). Make sure you don't use any spaces. Then type T?Your_chat; also, make sure you use '_' instead of a space.
