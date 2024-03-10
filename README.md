@@ -8,7 +8,11 @@ That's all! Now you're a multilingual CS player.
 
 How to use:
 STEP-1: In CS2 launch settings, please type -condebug.
+
 STEP-2: Launch CS2.
+
 STEP-3: Launch CSTranslator.
+
 STEP-4: Please insert the required information.
+
 STEP-5: Have fun!
