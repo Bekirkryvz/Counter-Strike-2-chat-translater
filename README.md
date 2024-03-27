@@ -7,6 +7,7 @@ To talk back to anyone, open your console, type T![any language code] (e.g., T!R
 That's all! Now you're a multilingual CS player.
 
 How to use:
+
 STEP-1: In CS2 launch settings, please type -condebug.
 
 STEP-2: Launch CS2.
