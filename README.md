@@ -1,4 +1,4 @@
-{Project does not work contact if you need an updat}
+{Project does not work contact if you need an update}
 
 THE PROGRAM IS BEING HIT BY A FALSE POSITIVE UNFORTUNATELY TRYING TO FIND A WAY AROUND IT
 
