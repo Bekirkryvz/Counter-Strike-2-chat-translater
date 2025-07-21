@@ -1,3 +1,5 @@
+{Project does not work contact if you need an updat}
+
 THE PROGRAM IS BEING HIT BY A FALSE POSITIVE UNFORTUNATELY TRYING TO FIND A WAY AROUND IT
 
 This is a translator for Counter-Strike chat. In-game, any chat sent will be translated into your chosen language and instantly copied. Just paste it somewhere and read as if the Russian player thinks you don't understand them.
